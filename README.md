@@ -6,6 +6,8 @@
 
 3.Run CS-2 Proo Tools.exe
 
+aimbot bound to shift key etc
+
 works outside the box no need for offsets/hooks/etc
 
 external/wallhack/aimbot/observer
