@@ -1,5 +1,7 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uGUu2QxDRdo/0.jpg)](https://www.youtube.com/watch?v=uGUu2QxDRdo)
+https://www.youtube.com/watch?v=uGUu2QxDRdo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8xsnvLGSfEY/0.jpg)](https://www.youtube.com/watch?v=8xsnvLGSfEY)
+https://www.youtube.com/watch?v=8xsnvLGSfEY
 
 
 0. download https://github.com/JohnHansonTheDev/Counter-Strike-2-Pro-Tools/blob/main/aimbot-wallhack-cs2.7z
